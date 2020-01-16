@@ -1,6 +1,4 @@
 
-package game;
-
 
 class KOKO {
     int page_num;
